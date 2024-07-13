@@ -27,7 +27,7 @@ TWEAKS = {
   },
   "RecursiveCharacterTextSplitter-VAUSI": {
     "chunk_overlap": 200,
-    "chunk_size": 2000,
+    "chunk_size": 1000,
     "separators": [
       "."
     ]
