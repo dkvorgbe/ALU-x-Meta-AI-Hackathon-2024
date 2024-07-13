@@ -1,2 +1,3 @@
-ollama==0.2.1
-langflow==1.0.0
+ollama
+langflow
+requests
