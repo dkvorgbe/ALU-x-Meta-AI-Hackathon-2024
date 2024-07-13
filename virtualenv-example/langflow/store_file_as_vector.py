@@ -34,7 +34,7 @@ TWEAKS = {
   }
 }
 
-flow_path = os.path.join(os.path.dirname(__file__), "flows/chunk-store-file-as-vector.json")
+flow_path = os.path.join(os.path.dirname(__file__), "flows/chunk_store_file_as_vector.json")
 
 result = run_flow_from_json(flow=flow_path,
                             input_value="message",
