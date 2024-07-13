@@ -22,7 +22,7 @@ TWEAKS = {
     "temperature": 0.1
   },
   "File-EKi71": {
-    "path": os.path.join(os.path.dirname(__file__), "pdf_files/hackathon_rubric.pdf"),
+    "path": os.path.join(os.path.dirname(__file__), "pdf_files/alu_overview.pdf"),
     "silent_errors": False
   },
   "RecursiveCharacterTextSplitter-VAUSI": {
