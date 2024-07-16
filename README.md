@@ -29,17 +29,6 @@ For users who are not able to run the Llama 3 model locally via Ollama, a server
 
 ## Getting started
 
-### Install and run Ollama 
-This step is only necessary if you are running the Llama 3 model locally via Ollama. 
-
-1. Download and install Ollama for your system
-2. Open Ollama
-3. Download a model (Llama3:7B receommended)
-3. Run the model
-4. Interact with the model via your CLI or make an HTTP request
-
-Once you have Ollama running locally, you can select your preferred setup below to continue:
-
 ### Setup choices
 
 The codebase offers 2 different setup choices for running Ollama and Langflow. You only have to select your preferred method or use it as reference
