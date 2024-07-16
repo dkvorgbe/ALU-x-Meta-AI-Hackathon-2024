@@ -167,3 +167,7 @@ chroma_db/
 #langflow logs
 virtualenv-example/logs/
 
+ollama/
+
+#mac files
+.DS_Store
