@@ -1,4 +1,4 @@
-# Running Ollama and Langflow with Docker
+# Running Ollama and Langflow with Python Virtualenv
 
 This guide will help you get Ollama and LangFlow up and running using a Python virtual environment.
 

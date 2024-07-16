@@ -44,7 +44,7 @@ Once you have Ollama running locally, you can select your preferred setup below 
 
 The codebase offers 2 different setup choices for running Ollama and Langflow. You only have to select your preferred method or use it as reference
 
-1. [Python - Virtualenv](https://link.to.python.com)
-2. [Python - Docker](https://link.to.python.com):
+1. [Python - virtualenv example](https://github.com/dkvorgbe/ALU-x-Meta-AI-Hackathon-2024/tree/main/virtualenv_example)
+2. [Python - docker example](https://github.com/dkvorgbe/ALU-x-Meta-AI-Hackathon-2024/tree/main/docker_example):
 
 
